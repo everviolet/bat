@@ -10,7 +10,7 @@
         <key>settings</key>
         <dict>
           <key>background</key>
-          <string>#e9ebf0</string>
+          <string>#d7e1eb</string>
           <key>caret</key>
           <string>#171c1f</string>
           <key>foreground</key>
@@ -24,11 +24,11 @@
           <key>selectionBorder</key>
           <string>#526469</string>
           <key>findHighlight</key>
-          <string>#cbae75</string>
+          <string>#bc9c6b</string>
           <key>findHighlightForeground</key>
-          <string>#e9ebf0</string>
+          <string>#d7e1eb</string>
           <key>activeGuide</key>
-          <string>#ca8c70</string>
+          <string>#c1866b</string>
           <key>bracketsForeground</key>
           <string>#4150557F</string>
           <key>bracketsOptions</key>
@@ -58,7 +58,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#d0a3c3</string>
+          <string>#ca9ebd</string>
         </dict>
       </dict>
       <dict>
@@ -69,7 +69,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#8fbab5</string>
+          <string>#79a39b</string>
         </dict>
       </dict>
       <dict>
@@ -104,7 +104,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#d0a3c3</string>
+          <string>#ca9ebd</string>
         </dict>
       </dict>
       <dict>
@@ -115,7 +115,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#b4c17f</string>
+          <string>#a7af70</string>
         </dict>
       </dict>
       <dict>
@@ -126,7 +126,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#8fbab5</string>
+          <string>#79a39b</string>
         </dict>
       </dict>
       <dict>
@@ -148,7 +148,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#8fbab5</string>
+          <string>#79a39b</string>
         </dict>
       </dict>
       <dict>
@@ -170,7 +170,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#a9be88</string>
+          <string>#91ac75</string>
         </dict>
       </dict>
       <dict>
@@ -181,7 +181,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#cbae75</string>
+          <string>#bc9c6b</string>
         </dict>
       </dict>
       <dict>
@@ -203,7 +203,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#8ca4bb</string>
+          <string>#8ca0bb</string>
         </dict>
       </dict>
       <dict>
@@ -225,7 +225,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#d0a3c3</string>
+          <string>#ca9ebd</string>
         </dict>
       </dict>
     </array>
